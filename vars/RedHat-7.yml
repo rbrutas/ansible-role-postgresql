@@ -1,11 +1,11 @@
 ---
-__postgresql_version: "9.6.5"
+__postgresql_version: "9.6.7"
 __postgresql_data_dir: "/var/lib/pgsql/9.6/data"
 __postgresql_bin_path: "/usr/pgsql-9.6/bin"
 __postgresql_config_path: "/var/lib/pgsql/9.6/data"
 __postgresql_daemon: postgresql-9.6
 __postgresql_packages:
-  - postgresql96-9.6.5
-  - postgresql96-server-9.6.5
-  - postgresql96-contrib-9.6.5
-  - postgresql96-libs-9.6.5
+  - postgresql96-9.6.7
+  - postgresql96-server-9.6.7
+  - postgresql96-contrib-9.6.7
+  - postgresql96-libs-9.6.7
